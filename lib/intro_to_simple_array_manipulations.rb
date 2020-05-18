@@ -3,9 +3,11 @@ array.concat(arrayii)
 end 
 
 def using_insert(array, arrayii)
+  array.insert(arrayii)
 end 
 
 def using_uniq(array, element)
+  
 end 
 
 def using_flatten(array)
