@@ -13,4 +13,5 @@ end
 def 
 end 
 
-validates_each
+def 
+end 
