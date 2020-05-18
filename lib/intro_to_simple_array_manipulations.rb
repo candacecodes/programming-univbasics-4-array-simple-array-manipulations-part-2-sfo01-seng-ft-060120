@@ -1,18 +1,18 @@
-def using_concat
+def using_concat(array)
 
 end 
 
-def using_insert
+def using_insert(array)
 end 
 
-def using_uniq
+def using_uniq(array, element)
 end 
 
-def using_flatten
+def using_flatten(array)
 end 
 
-def using_delete
+def using_delete(array, string)
 end 
 
-def 
+def using_delete_at(array, integer)
 end 
